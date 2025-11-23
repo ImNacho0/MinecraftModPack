@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+        "id": "1.0.1",
+        "releasedAt": 1763862560,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/better-mc-fabric-bmc2"
+            }
+        }
+    }
   ]
 }
